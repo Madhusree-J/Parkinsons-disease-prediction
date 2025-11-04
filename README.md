@@ -56,12 +56,12 @@ Parkinsons-Disease-Prediction/
    Upload a CSV file containing the voice measurement features.
    View prediction results (🩺 Parkinson’s / ✅ Healthy).
 
-##**📊 Dataset**
+## 📊 Dataset
 
 The project uses the Parkinson’s dataset from the UCI Machine Learning Repository.
 It includes biomedical voice measurements from patients and healthy individuals.
 Dataset link: https://archive.ics.uci.edu/ml/datasets/parkinsons
 
-##**Acknowledgment**
+## Acknowledgment
 This project was developed as part of the Mini Project for college under the theme AI for Health Prediction.
 It demonstrates the use of Machine Learning and Streamlit for early detection of Parkinson’s Disease.
